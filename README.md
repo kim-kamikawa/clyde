@@ -1,6 +1,6 @@
 # Clyde - Turtle Robot
 
-<video src='https://youtu.be/CrVve2ccPvs' width=400px/>
+<video src='https://youtu.be/CrVve2ccPvs' width=400px></video>
 
 ## Partial Part List
 
