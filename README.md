@@ -1,6 +1,7 @@
 # Clyde - Turtle Robot
 
-[![Clyde](https://user-images.githubusercontent.com/109980480/200143277-26108021-6a19-4d67-a82b-2dff28dbe84d.jpg)](https://www.youtube.com/watch?v=CrVve2ccPvs)
+![Clyde](https://user-images.githubusercontent.com/109980480/200143277-26108021-6a19-4d67-a82b-2dff28dbe84d.jpg)
+[Click for YouTube Demo](https://www.youtube.com/watch?v=CrVve2ccPvs)
 
 
 [![Clyde Demo]()](https://www.youtube.com/watch?v=CrVve2ccPvs)
