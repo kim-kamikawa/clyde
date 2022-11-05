@@ -1,6 +1,7 @@
 # Clyde - Turtle Robot
 
-<video src="https://youtu.be/CrVve2ccPvs"></video>
+[![Clyde Demo]()](https://www.youtube.com/watch?v=CrVve2ccPvs)
+<video src="[https://youtu.be/CrVve2ccPvs](https://www.youtube.com/watch?v=CrVve2ccPvs)"></video>
 
 ## Partial Part List
 
