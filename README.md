@@ -1,5 +1,8 @@
 # Clyde - Turtle Robot
 
+[![Clyde](https://user-images.githubusercontent.com/109980480/200143277-26108021-6a19-4d67-a82b-2dff28dbe84d.jpg)](https://www.youtube.com/watch?v=CrVve2ccPvs)
+
+
 [![Clyde Demo]()](https://www.youtube.com/watch?v=CrVve2ccPvs)
 <video src="[https://youtu.be/CrVve2ccPvs](https://www.youtube.com/watch?v=CrVve2ccPvs)"></video>
 
@@ -22,3 +25,4 @@ https://www.banggood.com/2Pcs-BX100-Battery-Voltage-Tester-Meter-Low-Voltage-Ala
 https://hobbyking.com/en_us/turnigy-nano-tech-1500mah-3s-25-50c-lipo-pack.html
  1  Battery Charger
 https://hobbyking.com/en_us/imax-b6-ac-dc-charger-5a-50w-with-us-plug-copy.html
+
