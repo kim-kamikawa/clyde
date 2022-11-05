@@ -1,11 +1,10 @@
 # Clyde - Turtle Robot
 
-<video src='https://youtu.be/CrVve2ccPvs' width=400px></video>
+<video src="https://youtu.be/CrVve2ccPvs"></video>
 
 ## Partial Part List
 
 Qty Description
---- --------------------------------------------
  1  FRDM-K64F (ARM Cortex-M4)
 https://os.mbed.com/platforms/frdm-k64f/
  1  L298N Dual H Bridge Stepper Motor Controller
