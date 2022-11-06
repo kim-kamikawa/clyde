@@ -2,7 +2,7 @@
 
 ![Clyde](https://user-images.githubusercontent.com/109980480/200143277-26108021-6a19-4d67-a82b-2dff28dbe84d.jpg)
 
-[Click for YouTube Demo](https://www.youtube.com/watch?v=CrVve2ccPvs)
+https://user-images.githubusercontent.com/109980480/200148113-6387dc9f-68bb-421b-ae80-c052c4d6d420.mp4
 
 ## Partial Part List
 
