@@ -1,4 +1,4 @@
-# Clyde - Turtle Robot
+# Clyde
 
 ![Clyde](https://user-images.githubusercontent.com/109980480/200143277-26108021-6a19-4d67-a82b-2dff28dbe84d.jpg)
 
